@@ -1,0 +1,7 @@
+C:\Users\Vaqif.Idrak\source\repos\Bucaqlar\Bucaqlar\bin\Debug\Bucaqlar.exe.config
+C:\Users\Vaqif.Idrak\source\repos\Bucaqlar\Bucaqlar\bin\Debug\Bucaqlar.exe
+C:\Users\Vaqif.Idrak\source\repos\Bucaqlar\Bucaqlar\bin\Debug\Bucaqlar.pdb
+C:\Users\Vaqif.Idrak\source\repos\Bucaqlar\Bucaqlar\obj\Debug\Bucaqlar.csprojAssemblyReference.cache
+C:\Users\Vaqif.Idrak\source\repos\Bucaqlar\Bucaqlar\obj\Debug\Bucaqlar.csproj.CoreCompileInputs.cache
+C:\Users\Vaqif.Idrak\source\repos\Bucaqlar\Bucaqlar\obj\Debug\Bucaqlar.exe
+C:\Users\Vaqif.Idrak\source\repos\Bucaqlar\Bucaqlar\obj\Debug\Bucaqlar.pdb
